@@ -136,7 +136,7 @@ export default function SafetySection() {
               <div className="bg-white/10 backdrop-blur-sm p-6 rounded-2xl border border-white/20">
                 <p className="font-bold text-2xl mb-4">Airbags</p>
                 <p className="mb-4 leading-relaxed">
-                  Airbags are honestly insane. They inflate in about the blink of an eye using a chemical reaction.
+                  The way airbags work is absolutly facinating. They inflate in about the blink of an eye using a chemical reaction.
                 </p>
 
                 <div className="bg-red-900/50 p-5 rounded-xl mb-4">
@@ -195,7 +195,7 @@ export default function SafetySection() {
               <div className="bg-white/10 backdrop-blur-sm p-6 rounded-2xl border border-white/20">
                 <p className="font-bold text-xl mb-3">Putting it all together</p>
                 <p className="text-sm leading-relaxed">
-                  Physics explains what needs to happen. Chemistry makes it possible.
+                  Physics tells it what needs to happen, chemistry brings it to life.
                 </p>
               </div>
             </div>
