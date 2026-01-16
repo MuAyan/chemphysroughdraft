@@ -219,7 +219,7 @@ export default function SafetySection() {
             </div>
           </div>
           <p className="text-center mt-6 text-sm text-gray-300">
-            This isn’t marketing. This is straight-up physics and chemistry saving lives.
+            This isn’t a marketing gimmick, it's physics and chemistry saving lives.
           </p>
         </div>
       </div>
