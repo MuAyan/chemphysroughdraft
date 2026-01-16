@@ -217,8 +217,9 @@ export default function InteractiveSection() {
         <div className="fade-in-section bg-gradient-to-br from-purple-600 to-blue-600 rounded-3xl p-10 shadow-2xl text-white text-center">
           <h3 className="text-3xl font-bold mb-4">Why This Matters</h3>
           <p className="text-lg max-w-3xl mx-auto leading-relaxed">
-            These simulations show that the stuff we learn in class actually explains how cars work in real life.
-            Speed, friction, pressure, and energy aren’t just formulas — they decide how fast a car stops and
+            These simulations show that physics and chemistry aren't just to mess with student's brains,
+            they actually explain how cars work in real life.
+            Speed, friction, pressure, and energy aren’t just formulas, they decide how fast a car stops and
             how the engine even moves the car in the first place.
           </p>
           <div className="mt-8 inline-block bg-white/20 backdrop-blur-sm px-6 py-3 rounded-full border border-white/30">
