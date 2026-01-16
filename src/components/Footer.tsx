@@ -11,7 +11,7 @@ export default function Footer() {
               <span className="font-bold text-xl">The Science Behind Cars</span>
             </div>
             <p className="text-gray-400 leading-relaxed">
-              This site explains how the physics and chemistry we learn in school are actually used in cars,
+              This site explains how physics and chemistry are actually used in cars,
               from how engines work to how braking and safety systems are designed.
             </p>
           </div>
@@ -50,7 +50,8 @@ export default function Footer() {
             Grade 11 Physics and Chemistry Final Project
           </p>
           <p className="text-gray-500 text-xs">
-            This website was made to show how the stuff we learn in class actually applies to real life.
+            This website was made to show how the stuff we learn in class actually applies to real life. 
+            Brought to you by Ayan Atif
           </p>
         </div>
       </div>
