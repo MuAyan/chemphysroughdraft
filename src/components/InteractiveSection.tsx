@@ -201,6 +201,23 @@ export default function InteractiveSection() {
                 {isAnimating ? '⏸️ Pause' : '▶️ Start'}
               </button>
             </div>
+<div className="mt-8 flex justify-center">
+  <div className="relative w-40 h-64 bg-slate-800 rounded-xl border-4 border-slate-600 overflow-hidden">
+
+    <div className="absolute top-0 left-0 w-full h-6 bg-slate-600" />
+
+    <div
+      className="absolute left-2 w-32 h-16 bg-gray-300 rounded-md border-2 border-gray-500 transition-none"
+      style={{
+        top: `${pistonPosition * 1.6}px`
+      }}
+    />
+
+    <div className="absolute bottom-0 left-0 w-full h-6 bg-slate-700" />
+
+  </div>
+</div>
+
 
             <div className="mt-6 bg-slate-700/30 backdrop-blur-sm p-5 rounded-xl border border-slate-600">
               <p className="text-sm font-semibold mb-2 text-yellow-300">What’s happening here:</p>
