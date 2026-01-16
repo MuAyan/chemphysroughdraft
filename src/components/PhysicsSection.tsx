@@ -12,7 +12,7 @@ export default function PhysicsSection() {
             Physics of Cars
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Basically how energy turns into motion, and why cars move, stop, and don’t kill us instantly
+            How energy turns into motion, and why cars move, stop, and don’t kill us instantly
           </p>
         </div>
 
@@ -76,7 +76,7 @@ export default function PhysicsSection() {
               </div>
 
               <p className="text-sm bg-yellow-50 p-3 rounded-lg border-l-4 border-yellow-500">
-                This is literally why speed limits exist, especially near schools and neighborhoods.
+                This is exactly why speed limits exist, especially near schools and neighborhoods.
               </p>
             </div>
           </div>
@@ -107,7 +107,7 @@ export default function PhysicsSection() {
                 <div className="bg-gradient-to-br from-blue-50 to-cyan-50 p-5 rounded-xl border-l-4 border-blue-500">
                   <p className="font-bold text-blue-900 mb-2">F = ma</p>
                   <p className="text-sm">
-                    More force means more acceleration. More mass means you need more force. That’s it.
+                    More force means more acceleration. More mass means you need more force.
                     This explains engines, braking, and why heavy cars feel slower.
                   </p>
                 </div>
@@ -123,7 +123,7 @@ export default function PhysicsSection() {
                   <p className="font-bold text-red-900 mb-2">Friction is everything</p>
                   <p className="text-sm">
                     Friction is what lets you speed up, slow down, and turn. Rain or ice ruins that,
-                    which is why wet roads are sketchy.
+                    which is why wet roads are avoided.
                   </p>
                 </div>
               </div>
