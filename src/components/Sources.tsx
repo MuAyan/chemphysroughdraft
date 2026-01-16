@@ -15,7 +15,7 @@ export default function Sources() {
             Sources
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            References used for physics and chemistry concepts in this project
+            References used for physics and chemistry concepts
           </p>
         </div>
 
