@@ -43,11 +43,11 @@ export default function Hero() {
         <div className="max-w-3xl mx-auto mb-12">
           <p className="text-lg md:text-xl text-white/90 leading-relaxed mb-6">
             We use cars every day, but most people never really think about what’s going on inside them.
-            A car isn’t just a machine — it’s basically physics and chemistry working together the whole time.
+            A car isn’t just a machine, it’s a scientific masterpiece with physics and chemistry working together the whole time.
           </p>
           <p className="text-lg md:text-xl text-white/90 leading-relaxed">
             In this project, I’m going to show how fuel turns into motion, why forces matter when you turn or stop,
-            and how safety systems are designed using the same science we learn in class.
+            and how safety systems are designed to protect the rider.
           </p>
         </div>
 
